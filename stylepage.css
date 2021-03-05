@@ -1,0 +1,36 @@
+body{
+	background-color: #F0FFF0;
+}
+
+#container{
+	height: :200px;
+	width: 500px;
+	border: 3px solid #F5F5F5;
+	margin: auto;
+	margin-top: 50px;
+	background-color: #F0FFFF;
+}
+
+h1{
+	text-align:center;
+	color:#FAEBD7;
+}
+
+#number{
+	height: 25px;
+	width: 250px;
+	margin: auto;
+	margin-top: 50px;
+	border: 1px solid #F5F5F5;
+	text-align: center;
+	background-color: #F5F5F5;
+}
+
+#click{
+	height:25px;
+	width: 100px;
+	margin-top: 50px;
+	margin-left: 200px;
+
+}
+
